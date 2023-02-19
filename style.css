@@ -7,7 +7,7 @@
   clear: both; /* сброс обтекания */
 }
 main {
-  background-image: url(img/background.png); /* ставим фоновое изображение */
+  background-image: url(./img/background.png); /* ставим фоновое изображение */
   background-size: cover; /* растягиваем фон по размерам блока */
   background-repeat: no-repeat; /* запрещаем картинке повторяться */
   background-position: center; /* выравниваем ее по центру каждой оси */
